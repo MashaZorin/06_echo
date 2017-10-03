@@ -1,0 +1,14 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <title> Form </title>
+  </head>
+
+  <body>
+    <form>
+      <input name="data" type="text" value="Enter your name">
+      <br>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+ </html>
